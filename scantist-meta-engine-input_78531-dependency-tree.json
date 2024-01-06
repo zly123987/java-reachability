@@ -1,0 +1,3780 @@
+{
+    "scan_name": "search-code",
+    "scan_version": "",
+    "repo_url": "",
+    "scan_timestamp": "2023-11-30T09:42:13.685Z",
+    "scan_buildCreationInfo": {
+        "rootDir": "/home/jackie/scantist/search-code",
+        "repo_name": "search-code",
+        "build_time": "",
+        "commit_sha": "399494645c879b65abaf6d5bd33d03953c8808b4",
+        "branch": "main",
+        "repo_url": "https://github.com/Jackie-Tan/search-code.git",
+        "scan_source": "CLI",
+        "scan_type": "source_code",
+        "SBD_version": "2023/10/23",
+        "graph_support": true
+    },
+    "scan_filesOfInterest": [
+    {
+        "filename": "tooltips.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/tooltips.js",
+        "sha1": "a5021f91903b093fa4ba983f3ef72bf97b68f6d1"
+    }, {
+        "filename": "flooble.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/flooble.js",
+        "sha1": "cf487f0286094540cbe7707454f8765059fd491b"
+    }, {
+        "filename": "phpRaid.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/phpRaid.js",
+        "sha1": "75085aca4dfa627385a1706671f22dab8bf0c91f"
+    }, {
+        "filename": "fixedtooltip.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/fixedtooltip.js",
+        "sha1": "64d2a10f37c0d50363a42f42b967d27482368ab5"
+    }, {
+        "filename": "cal2_conf.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/cal2_conf.js",
+        "sha1": "0bd073c5547a9c7e7f2536f77be691abbaedd6ae"
+    }, {
+        "filename": "cal2.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/cal2.js",
+        "sha1": "2a5716425feb9e4103576615a01ba4eecba2c37f"
+    }, {
+        "filename": "overlib.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowitem-tooltip/js/overlib.js",
+        "sha1": "e530d6e78108f33ab6a318b909f5f8b6f92a2b69"
+    }, {
+        "filename": "tooltipnew.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowitem-tooltip/js/tooltipnew.js",
+        "sha1": "249de1659df0ee567cc1727717a69a5293ce942c"
+    }, {
+        "filename": "overlib.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowchar-tooltip/js/overlib.js",
+        "sha1": "e530d6e78108f33ab6a318b909f5f8b6f92a2b69"
+    }, {
+        "filename": "tooltipnew.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowchar-tooltip/js/tooltipnew.js",
+        "sha1": "97b9c04e1e082140a23c6f9e5a30a2132f570a41"
+    }, {
+        "filename": "CalDAVSchedulingSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVSchedulingSpec.js",
+        "sha1": "eae19c6c049742df8c4b5d830d39e0fa16516f87"
+    }, {
+        "filename": "DAVContactsCategoriesSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVContactsCategoriesSpec.js",
+        "sha1": "ca72bcaf7f2f0df283e2d225597db04a34750ac8"
+    }, {
+        "filename": "ConfigSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/ConfigSpec.js",
+        "sha1": "f2195ee8a20e5cb85fd84bd0ddbd380cd08f8482"
+    }, {
+        "filename": "HTTPPreferencesSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/HTTPPreferencesSpec.js",
+        "sha1": "0bcd6af771d6576eba4ae8af1468bf477ac1563f"
+    }, {
+        "filename": "MailDAVSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/MailDAVSpec.js",
+        "sha1": "6f7a73eb6af51e3f110c0b5d78cac238053717dd"
+    }, {
+        "filename": "WebDAVSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/WebDAVSpec.js",
+        "sha1": "68216e4b1b32eb3b8675e4af99f2f1464fb66d42"
+    }, {
+        "filename": "HTTPCalendarSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/HTTPCalendarSpec.js",
+        "sha1": "21ae7254735596cab5efc5e2acfc6034426b0b46"
+    }, {
+        "filename": "SogoToolSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/SogoToolSpec.js",
+        "sha1": "66ab2b9d05710109aa8796c8bea15498147df498"
+    }, {
+        "filename": "DAVCalendarSuperUserAclSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarSuperUserAclSpec.js",
+        "sha1": "7a65fda8309863aba5ae0588aad58b636b52828a"
+    }, {
+        "filename": "DAVAddressBookAclSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVAddressBookAclSpec.js",
+        "sha1": "4da30873ee9df78f2945b0645b4af2c6b4eb7218"
+    }, {
+        "filename": "DAVCalendarAclSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarAclSpec.js",
+        "sha1": "786a5e6de7fae05d0d3980adb4ea528f93cf2179"
+    }, {
+        "filename": "DAVCalendarAppleiCalSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarAppleiCalSpec.js",
+        "sha1": "eecec82f1dbabb1d68cc34fe6be68d0c093d287c"
+    }, {
+        "filename": "DAVPublicAccessSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVPublicAccessSpec.js",
+        "sha1": "3d1a2df1d111cd5d829cfaa0d8f360cd36a1a617"
+    }, {
+        "filename": "CalDAVPropertiesSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVPropertiesSpec.js",
+        "sha1": "a8f6220b4b1898d48d11962173be41747bd2fca2"
+    }, {
+        "filename": "DAVCalendarClassificationSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarClassificationSpec.js",
+        "sha1": "82a9856870f2c63006bd592be3082b494a778be1"
+    }, {
+        "filename": "DAVCalendarPublicAclSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarPublicAclSpec.js",
+        "sha1": "afaa72504c68484eab5cd40fb7720eed5c84a1be"
+    }, {
+        "filename": "WebDavSyncSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/WebDavSyncSpec.js",
+        "sha1": "7a6ebeeaf64fdecf59389f32e02f69e6c42bd19c"
+    }, {
+        "filename": "CalDAVPreventInvitationsSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVPreventInvitationsSpec.js",
+        "sha1": "46ecf9b3c2e28be98be5392fe4a73ae31ec44bd7"
+    }, {
+        "filename": "SieveSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/SieveSpec.js",
+        "sha1": "41a3cdd5534444552319c3328b66fdffcd0707d2"
+    }, {
+        "filename": "CardDAVSpec.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CardDAVSpec.js",
+        "sha1": "b0492598ab05f685cbb153e1a29c6383ab882395"
+    }, {
+        "filename": "Preferences.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/Preferences.js",
+        "sha1": "f5da9e6a98d79d6c1e47565bb23961f41fb41e60"
+    }, {
+        "filename": "utilities.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/utilities.js",
+        "sha1": "a5ad099ed2beb65de5b7f35840d15a5565e835e1"
+    }, {
+        "filename": "ManageSieve.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/ManageSieve.js",
+        "sha1": "41ccbc8032511ede9ead32ea029ab1324938c681"
+    }, {
+        "filename": "config.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/config.js",
+        "sha1": "2ce4c20a427d2e325aed087d478c8e73b023cfd3"
+    }, {
+        "filename": "WebDAV.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/WebDAV.js",
+        "sha1": "b4e5e83caaafea59dd2f1704041a7f6e609f39f5"
+    }, {
+        "filename": "standard-version-updater.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Scripts/standard-version-updater.js",
+        "sha1": "bd11783101b454299bed84fefb21037e5502e28f"
+    }, {
+        "filename": "Preferences.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences.js",
+        "sha1": "92beea83b5c6d1798f082f0ab887950b6ee3ccf4"
+    }, {
+        "filename": "ThemePreviewController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/ThemePreviewController.js",
+        "sha1": "8b88b6aa585402a18a59103eb2442b3a1e2f163d"
+    }, {
+        "filename": "Administration.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/Administration.app.js",
+        "sha1": "67b0ba96565caeb1c2758c8409fc4e8d8276c324"
+    }, {
+        "filename": "Administration.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/Administration.service.js",
+        "sha1": "925f2b46f096029d54acf461781c86fc8f275fec"
+    }, {
+        "filename": "AdministrationAclController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/AdministrationAclController.js",
+        "sha1": "104b5f2ab94be79024c56d1936b9423108046f4f"
+    }, {
+        "filename": "AdministrationController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/AdministrationController.js",
+        "sha1": "93e3e27af736796839d6d14799309999904f684d"
+    }, {
+        "filename": "Mailer.services.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.services.js",
+        "sha1": "9c5c87d9c91b82f4e272f77a2f943f573d31d2da"
+    }, {
+        "filename": "Administration.services.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration.services.js",
+        "sha1": "1d7e5a04962d8421f3fafcead919ad4fb8130e64"
+    }, {
+        "filename": "Main.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Main/Main.app.js",
+        "sha1": "39cc73777b8acd589c6a02b380ba257dffd33bc2"
+    }, {
+        "filename": "Contacts.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts.js",
+        "sha1": "7c1aca7d2d27b14f744c1bf44ba196365fbe3f81"
+    }, {
+        "filename": "FiltersDialogController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/FiltersDialogController.js",
+        "sha1": "7f9165ab0df7ecd7bf6131c6d66311ef9e36c43b"
+    }, {
+        "filename": "Preferences.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/Preferences.app.js",
+        "sha1": "6a02566e3eabc9774fe6886523ef853cee2e1e18"
+    }, {
+        "filename": "PreferencesController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/PreferencesController.js",
+        "sha1": "bac26d4e59bbd5af996a9f858984a61f9f3e8b31"
+    }, {
+        "filename": "AccountDialogController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/AccountDialogController.js",
+        "sha1": "cd70142bc539ebce9400f65d1c1a41a67e0e3be9"
+    }, {
+        "filename": "Preferences.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/Preferences.service.js",
+        "sha1": "20271b7a03a958f1f3fece62fa227f977564ff23"
+    }, {
+        "filename": "Main.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Main.js",
+        "sha1": "f6991f510548ef217c4b6b484adfa996b0755498"
+    }, {
+        "filename": "Common.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common.js",
+        "sha1": "79dc26132eac97c859310e423274d6f8087343d7"
+    }, {
+        "filename": "Preferences.services.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences.services.js",
+        "sha1": "977e12ec07ae1f2bafb6e691e77c10de711fb419"
+    }, {
+        "filename": "Contacts.services.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts.services.js",
+        "sha1": "d51326019864cb01097ad8e1a037fcf06e27889d"
+    }, {
+        "filename": "AddressBook.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBook.service.js",
+        "sha1": "14f4d5d791d4d83c095bf5ea40ccad554df96f42"
+    }, {
+        "filename": "CardController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/CardController.js",
+        "sha1": "edc08bf500dcf9dbb0ebea210e6da45f8b2b6b30"
+    }, {
+        "filename": "Card.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/Card.service.js",
+        "sha1": "d2cb4d016c1a22d90e26c22d5d7db36f641f6cb6"
+    }, {
+        "filename": "Contacts.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/Contacts.app.js",
+        "sha1": "195cdda685c351243f3b512467b74f3cbd432fa3"
+    }, {
+        "filename": "sgAddress.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/sgAddress.directive.js",
+        "sha1": "ba2d181ec5e9b3af75111210f1429660ffe571f9"
+    }, {
+        "filename": "AddressBookController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBookController.js",
+        "sha1": "27ebc5d61ee93eef3567784f5118b4e8397fe64f"
+    }, {
+        "filename": "AddressBooksController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBooksController.js",
+        "sha1": "1c582b1d1ee8f7e8443d6ad8c22c5428f43307f9"
+    }, {
+        "filename": "sgAccountSection.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgAccountSection.directive.js",
+        "sha1": "0ca8afbe60bcbc72c4dd9038867cbcffa2be9eff"
+    }, {
+        "filename": "Mailer.popup.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailer.popup.js",
+        "sha1": "ff91cccebce05054ac9c5c9bff8f862a0998fa90"
+    }, {
+        "filename": "Message.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Message.service.js",
+        "sha1": "a8bff7cbfa490d5d584860badfc4a1c2afb0f383"
+    }, {
+        "filename": "Account.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Account.service.js",
+        "sha1": "2238ca5b256a622f5da3de5ba443f2ed039b93a2"
+    }, {
+        "filename": "sgMailboxListItem.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMailboxListItem.directive.js",
+        "sha1": "b571c8751b5feedd032b0efff33253dfd8fb8dcd"
+    }, {
+        "filename": "sgImageGallery.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgImageGallery.service.js",
+        "sha1": "c9f294321812ef545056b881417bffdea224d9f7"
+    }, {
+        "filename": "sgMessageListItem.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMessageListItem.directive.js",
+        "sha1": "bd138bf295b27505d58b10395e2996ecbb8ba2fe"
+    }, {
+        "filename": "Mailer.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailer.app.js",
+        "sha1": "a4ac09ae6de6a98bf2e294fd320122ae322aea07"
+    }, {
+        "filename": "MailboxesController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MailboxesController.js",
+        "sha1": "b481485e757286ce5f57efcca52f8bb64fff3ad8"
+    }, {
+        "filename": "sgIMIP.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgIMIP.directive.js",
+        "sha1": "3f83f92683d7013652dc9bba1dda0ef4ffb05634"
+    }, {
+        "filename": "Mailbox.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailbox.service.js",
+        "sha1": "876a54ce507451c01d1f604216ec821a18dbcac7"
+    }, {
+        "filename": "sgMessageListItemMain.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMessageListItemMain.directive.js",
+        "sha1": "4120e4b3efd8a74c099d9cec9f064007fb220f60"
+    }, {
+        "filename": "VirtualMailbox.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/VirtualMailbox.service.js",
+        "sha1": "bb0f227025fc4f03e2061b7096200a7614da5497"
+    }, {
+        "filename": "sgZoomableImage.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgZoomableImage.directive.js",
+        "sha1": "5ffbe2dd02321289abf4a3a817578ecc63ed5400"
+    }, {
+        "filename": "MessageEditorController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MessageEditorController.js",
+        "sha1": "d348d7b21c924cdce661f19f8dd30b01007de623"
+    }, {
+        "filename": "MessageController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MessageController.js",
+        "sha1": "709e119fcc8f4aa9370019f4ea20f08780e408aa"
+    }, {
+        "filename": "MailboxController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MailboxController.js",
+        "sha1": "74715e9e8667daa183d0e0f6b6874b46d80ca965"
+    }, {
+        "filename": "Scheduler.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler.js",
+        "sha1": "80cfcc94c88528ee07fc49ce216d3814e510bea9"
+    }, {
+        "filename": "Administration.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration.js",
+        "sha1": "929acdf8bfd8d8f7fd64cefe7f1ee4bc9e455b11"
+    }, {
+        "filename": "Mailer.app.popup.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.app.popup.js",
+        "sha1": "6716c2439f5a16a87f5dba9f7a133efdc48fc52a"
+    }, {
+        "filename": "Mailer.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.js",
+        "sha1": "a66433122d2e1f6e9f9291f0d745879eeabac4e4"
+    }, {
+        "filename": "sgDatepickerReadonlyInput.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDatepickerReadonlyInput.directive.js",
+        "sha1": "aa586d5b49faa9fe9951da0ae060dbbb84c20d3b"
+    }, {
+        "filename": "range.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/range.filter.js",
+        "sha1": "25fad41a0b3ac4b6dfa043c7da686190f756b7f6"
+    }, {
+        "filename": "sgSubscribe.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSubscribe.directive.js",
+        "sha1": "b00f4f7cb837de4386f4870524fe698699aac652"
+    }, {
+        "filename": "Acl.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Acl.service.js",
+        "sha1": "065a3602e98b05f55e2db1ce3d031b2f664267f2"
+    }, {
+        "filename": "sgAutogrow.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgAutogrow.directive.js",
+        "sha1": "c5d32174b4b50a7ba832bfa274f853dd9703a29c"
+    }, {
+        "filename": "User.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/User.service.js",
+        "sha1": "2623369e0cf99f81cecbb87669632ac01b104b96"
+    }, {
+        "filename": "sgFolderStylesheet.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFolderStylesheet.directive.js",
+        "sha1": "33c9092883b86cfb51c5940cd1525f63b265947c"
+    }, {
+        "filename": "decodeUri.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/decodeUri.filter.js",
+        "sha1": "d0b6ddaf064d0e54a76ae78ef1843fd0b39d1c6e"
+    }, {
+        "filename": "sgQrCode.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgQrCode.directive.js",
+        "sha1": "1ef5b009762421ed91a3d50d27e0e1888671b500"
+    }, {
+        "filename": "sgSearch.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSearch.directive.js",
+        "sha1": "08196f9ea5bf35bc9884e302128e4218ba423535"
+    }, {
+        "filename": "sgResetOnDisabled.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgResetOnDisabled.directive.js",
+        "sha1": "54b14c3aa0519d7868ed4f171e9bfee34da65fd5"
+    }, {
+        "filename": "encodeUri.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/encodeUri.filter.js",
+        "sha1": "7c1ceabf57c8d8de3a0897ef8b92907f40149758"
+    }, {
+        "filename": "sgCompile.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCompile.directive.js",
+        "sha1": "dba1389a1c13ab016eb171ad48387ab788ea0f06"
+    }, {
+        "filename": "sgRippleClick.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgRippleClick.service.js",
+        "sha1": "a0e21eb51c06aca6e90bbb5a54d53d1972ada81a"
+    }, {
+        "filename": "sgLabels.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgLabels.directive.js",
+        "sha1": "adfa6f5fc3239fe2d3cfab3ede4d015af2c59b27"
+    }, {
+        "filename": "sgEnter.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgEnter.directive.js",
+        "sha1": "bcfd984e1e65108f0e8508891c3b9284c63582b4"
+    }, {
+        "filename": "sgPlaceholder.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgPlaceholder.directive.js",
+        "sha1": "c23857d8b36f9f5f44519a07b325aee4b04acdeb"
+    }, {
+        "filename": "Gravatar.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Gravatar.service.js",
+        "sha1": "d833317f1cc56917a8c9c84f039a711a2311c176"
+    }, {
+        "filename": "Resource.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Resource.service.js",
+        "sha1": "fec7f422d9bc7efe5b46ce926dd21ebcd472e8ff"
+    }, {
+        "filename": "utils.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/utils.js",
+        "sha1": "b1a40538abc431211f7407a91e1cdcfbfaf138f6"
+    }, {
+        "filename": "sgDraggable.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDraggable.directive.js",
+        "sha1": "64110e1949581e7f4b24dcbcb56e9f9ef3f04020"
+    }, {
+        "filename": "sgSelectOnly.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSelectOnly.directive.js",
+        "sha1": "472746587df6f5dfedbeefc1fa4fedadb211d52a"
+    }, {
+        "filename": "sgAvatarImage.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgAvatarImage.directive.js",
+        "sha1": "1a2f9cc9787bb1932cd545ead5f826ea0b36d3c9"
+    }, {
+        "filename": "sgHotkeys.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgHotkeys.service.js",
+        "sha1": "17a1696333c7780354e9c55c6bbd833460e69998"
+    }, {
+        "filename": "sgDroppable.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDroppable.directive.js",
+        "sha1": "1a8377674d3db99bf06b134c1466465d6cc58ae5"
+    }, {
+        "filename": "sgFocus.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFocus.service.js",
+        "sha1": "6f1e225ded0cb5d61556a16e6cef3b729b84383e"
+    }, {
+        "filename": "sgToggleGrid.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgToggleGrid.directive.js",
+        "sha1": "349494a2b4fe05daf0dd66ac7fc2658a7b7a2aaf"
+    }, {
+        "filename": "sgNoDirtyCheck.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgNoDirtyCheck.directive.js",
+        "sha1": "c63812534076b28bc546b635c7df04740bc4e89f"
+    }, {
+        "filename": "ensureTarget.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/ensureTarget.filter.js",
+        "sha1": "01ea6fa7182933cf99b18acc119f9d2e2837df7b"
+    }, {
+        "filename": "Dialog.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Dialog.service.js",
+        "sha1": "5db5d4a2eb29f45766a63fd7609f8845f874f8be"
+    }, {
+        "filename": "sgBlockToggle.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgBlockToggle.directive.js",
+        "sha1": "43c2776fbcea0e10ee944a8988115f9b4b04c167"
+    }, {
+        "filename": "Authentication.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Authentication.service.js",
+        "sha1": "9c47701b946eb8420c120aa953e5a24c71c933bd"
+    }, {
+        "filename": "mdColors.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/mdColors.app.js",
+        "sha1": "c5f0148980ab60804a7e8337bb9158a3dbda5ee3"
+    }, {
+        "filename": "sgCheckmark.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCheckmark.directive.js",
+        "sha1": "4420effc94ddd463483c5e23d39d448f89f54707"
+    }, {
+        "filename": "navController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/navController.js",
+        "sha1": "46a20cbdf26a52818ed0b0a2d13b202e5236c0a6"
+    }, {
+        "filename": "sgColorPicker.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgColorPicker.directive.js",
+        "sha1": "346e05a5a660dc7782562726ae6ef593c13bc8d5"
+    }, {
+        "filename": "angular-file-upload.trump.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/angular-file-upload.trump.js",
+        "sha1": "effe1176b5c91c316350530374a8209268dcfd60"
+    }, {
+        "filename": "sgRippleClick.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgRippleClick.directive.js",
+        "sha1": "e2514842f52ab6d788d82fbd123b6a2f6791c86b"
+    }, {
+        "filename": "sgCkeditor.component.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCkeditor.component.js",
+        "sha1": "68bf4b1a3cfb00265605be75d59ca9e23f1dd9da"
+    }, {
+        "filename": "Common.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Common.app.js",
+        "sha1": "7e27e3268f4d3682fbe63b9b2a91b8dc23a509a3"
+    }, {
+        "filename": "sgTimepicker.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgTimepicker.directive.js",
+        "sha1": "fbad9abe3721798ee8bc2cf6d8ebe84069b79b55"
+    }, {
+        "filename": "AclController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/AclController.js",
+        "sha1": "969637ce0f9761a41cd143faacda12a10e141d65"
+    }, {
+        "filename": "sgFocus.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFocus.directive.js",
+        "sha1": "58a8e367088d8ee3e8407a9b244057998430480d"
+    }, {
+        "filename": "sgEscape.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgEscape.directive.js",
+        "sha1": "b240bf6cb72d2eed8a37dc03f332284664183c81"
+    }, {
+        "filename": "txt2html.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/txt2html.filter.js",
+        "sha1": "34f5c278952b880f0047435904255d1b58e16a8c"
+    }, {
+        "filename": "loc.filter.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/loc.filter.js",
+        "sha1": "8b412f43951672774894cef6d77034d3e7028aa4"
+    }, {
+        "filename": "Scheduler.services.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler.services.js",
+        "sha1": "016d10d1bb146f07ab2a71429ff383c0b638e877"
+    }, {
+        "filename": "sgDraggableCalendarBlock.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgDraggableCalendarBlock.directive.js",
+        "sha1": "cea1c268d8b9a0ffe8454770818dc78a025510b6"
+    }, {
+        "filename": "sgCalendarPrintStylesheet.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarPrintStylesheet.directive.js",
+        "sha1": "441ccb28e55a01ec81f3ee5717aafd6bb77ce483"
+    }, {
+        "filename": "sgCalendarMonthDay.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarMonthDay.directive.js",
+        "sha1": "f68d3ca939b1562efbcdbfb692c1def9743cdffe"
+    }, {
+        "filename": "Component.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Component.service.js",
+        "sha1": "c10bf7c148a6b3a8eb1b7848c324db9129c19653"
+    }, {
+        "filename": "CalendarListController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarListController.js",
+        "sha1": "fc71f5baf1a83d089c41980851d3b9426674d2f8"
+    }, {
+        "filename": "sgCalendarDayTable.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDayTable.directive.js",
+        "sha1": "9c07fea4bc11ae2663e5597cc214bb630511c0dc"
+    }, {
+        "filename": "CalendarController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarController.js",
+        "sha1": "02d9728c3d01dd662c9b9af6e3805660c2f20ac0"
+    }, {
+        "filename": "sgCalendarListEvent.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarListEvent.directive.js",
+        "sha1": "32f1ab2ad3dc3e1bad8a48631989d7b19bd73b1b"
+    }, {
+        "filename": "sgCalendarMonthEvent.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarMonthEvent.directive.js",
+        "sha1": "53c92a6dd67fa4116d4ac831aa096dbc62b57378"
+    }, {
+        "filename": "sgFreebusy.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgFreebusy.directive.js",
+        "sha1": "6142fe172a7f6534d0a69540afd2ec3813ad3276"
+    }, {
+        "filename": "Attendees.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Attendees.service.js",
+        "sha1": "1d347f471dc71124ccf6eb34aabff4df67dc11cf"
+    }, {
+        "filename": "sgCalendarDayBlock.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDayBlock.directive.js",
+        "sha1": "271b1592b966cc0f7fda37240cac243289a529b4"
+    }, {
+        "filename": "sgNowLine.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgNowLine.directive.js",
+        "sha1": "d0ea33d8bfd8bb9e4ccabee8c699289f94a125d9"
+    }, {
+        "filename": "sgFreebusyDay.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgFreebusyDay.directive.js",
+        "sha1": "c94a4e930bb4d3b9228d40fa82d5170958ccbcc8"
+    }, {
+        "filename": "sgCalendarScrollView.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarScrollView.directive.js",
+        "sha1": "d1977a59c130bbd61686f51828e0c61ad5b0f845"
+    }, {
+        "filename": "sgCalendarListItem.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarListItem.directive.js",
+        "sha1": "39256f4f21d716b751d2365e7ff50cea38999ef2"
+    }, {
+        "filename": "CalendarsController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarsController.js",
+        "sha1": "7ee6d5276eac3f537cfaa00822032aed70d7c2d7"
+    }, {
+        "filename": "sgCalendarDay.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDay.directive.js",
+        "sha1": "c9c56bd52b4b218956d57ab67c698577f46d9415"
+    }, {
+        "filename": "Calendar.service.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Calendar.service.js",
+        "sha1": "733b8e243d80ecdedfa39752d14a1487bafa0be0"
+    }, {
+        "filename": "sgCategoryStylesheet.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCategoryStylesheet.directive.js",
+        "sha1": "e3a8ce11bcad30f356baf76853fc9a4922e2bac9"
+    }, {
+        "filename": "sgCalendarGhost.directive.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarGhost.directive.js",
+        "sha1": "da41565c13ac41dadd45c8a7c9c82597249af070"
+    }, {
+        "filename": "Scheduler.app.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Scheduler.app.js",
+        "sha1": "84a7cdb697bbb851866c69cabe978044738b8c7c"
+    }, {
+        "filename": "ComponentController.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/ComponentController.js",
+        "sha1": "9d0a1190c8aef8dfe7bdd868d78740a1b6baa3a1"
+    }, {
+        "filename": "theme.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/theme.js",
+        "sha1": "256f4865b3de7fd8b21082a55c336795a3bc1deb"
+    }, {
+        "filename": "angular-messages.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-messages.js",
+        "sha1": "7acc506f0758aa5cdbc291f679869a1dbeaef947"
+    }, {
+        "filename": "angular-sanitize.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-sanitize.js",
+        "sha1": "197aea2acc25a0fa821766400950cac58a3627a5"
+    }, {
+        "filename": "angular-cookies.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-cookies.js",
+        "sha1": "20f43f716b9fef7d72537bc1b0e5aa2bc480cee5"
+    }, {
+        "filename": "angular.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular.js",
+        "sha1": "0f1f7445b761b9bbd5385f9f0b316dbf1ca48696"
+    }, {
+        "filename": "angular-ui-router.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-ui-router.min.js",
+        "sha1": "8bc7d329fe86cbf66f7cb91103558596744802b9"
+    }, {
+        "filename": "lodash.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/lodash.js",
+        "sha1": "03d60d1510d24a952ff370b77035b031a87c4158"
+    }, {
+        "filename": "angular-cookies.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-cookies.min.js",
+        "sha1": "7dc53f75d5bf7dd2c770cb50f31242c70193c086"
+    }, {
+        "filename": "angular-animate.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-animate.min.js",
+        "sha1": "4c15a58541e53c451c6f946d2048104f88b833c7"
+    }, {
+        "filename": "angular-messages.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-messages.min.js",
+        "sha1": "9961bb1ec4e1d0877287b5c6d459634243ea458d"
+    }, {
+        "filename": "angular-file-upload.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-file-upload.js",
+        "sha1": "7c61d27af8592df68d010e1c66143d07931ba539"
+    }, {
+        "filename": "angular-sanitize.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-sanitize.min.js",
+        "sha1": "21355ef18c5e1ce2b2c711b9dba21cbea0655646"
+    }, {
+        "filename": "FileSaver.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/FileSaver.min.js",
+        "sha1": "78625236cd6ebc1519441d2e643f5c0c8100513b"
+    }, {
+        "filename": "lodash.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/lodash.min.js",
+        "sha1": "ae854b04025db8b7f48fdd6dedf41e77eae44394"
+    }, {
+        "filename": "qrcode.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/qrcode.js",
+        "sha1": "fad26c13a5c8e1bb4cf7071824cd5fa22b100cc6"
+    }, {
+        "filename": "dialogDefinition.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/plugins/dialog/dialogDefinition.js",
+        "sha1": "8bbd6013901d77ac591b0673a0dd31cb583613e2"
+    }, {
+        "filename": "sr.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sr.js",
+        "sha1": "f99538a2f7eea24bd93b6865e55ffa1698c38452"
+    }, {
+        "filename": "es.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/es.js",
+        "sha1": "28dfff36c189de99c387fbe04b312f03f5fd479d"
+    }, {
+        "filename": "nb.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/nb.js",
+        "sha1": "2aaa3a676e18880a90b5bb7e5d2b9fa3064fd60e"
+    }, {
+        "filename": "nl.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/nl.js",
+        "sha1": "88b9e2bff926ff0df3718fb18a37965a2a91db63"
+    }, {
+        "filename": "ja.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ja.js",
+        "sha1": "ee667fdb7aee61a4b4513f30bd6a5ff7f020c064"
+    }, {
+        "filename": "sr-latn.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sr-latn.js",
+        "sha1": "526d1f4fe49c092512daff5b2554fa7869b0ca38"
+    }, {
+        "filename": "hr.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/hr.js",
+        "sha1": "6208d2b6b2169a0155c9adf5a3f8338666471466"
+    }, {
+        "filename": "uk.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/uk.js",
+        "sha1": "bb86c751d101ebe94eafff0ac98275ca5cca1051"
+    }, {
+        "filename": "eu.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/eu.js",
+        "sha1": "62e41997009ac361a251ce8f3d9fcb504cf0b346"
+    }, {
+        "filename": "pt.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pt.js",
+        "sha1": "1783af7f8a73cd13fe8bd70a2faa235ddbc142a4"
+    }, {
+        "filename": "fi.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/fi.js",
+        "sha1": "9bbd1f57691ccea633d3abacf653ba036ac2cb39"
+    }, {
+        "filename": "ca.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ca.js",
+        "sha1": "6bc2298ff7217cd3fa97db49a7783412b2670a16"
+    }, {
+        "filename": "bg.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/bg.js",
+        "sha1": "f4b3c3a34213910c853976c266a1a455b465756d"
+    }, {
+        "filename": "mk.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/mk.js",
+        "sha1": "0710e28aa2523fccce8986aeb82703ae3dfadc3d"
+    }, {
+        "filename": "is.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/is.js",
+        "sha1": "6a311f8a90c7d5508bc70c09fac44e412fc1d8bc"
+    }, {
+        "filename": "it.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/it.js",
+        "sha1": "c8c84f582bf6f80503c5cc6a67ed8646c1f3de30"
+    }, {
+        "filename": "lv.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/lv.js",
+        "sha1": "e2ce62bfcb43de37d9092c73df78e49a0f4ddc2c"
+    }, {
+        "filename": "zh-cn.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/zh-cn.js",
+        "sha1": "a29622e7b7b2851bb8fa76926984135993440668"
+    }, {
+        "filename": "sk.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sk.js",
+        "sha1": "82aa1a45b9e68112710448a95376485ed0ed1a3f"
+    }, {
+        "filename": "de.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/de.js",
+        "sha1": "f08359b4b4bcdda9b5df6a8d47655930cda047d6"
+    }, {
+        "filename": "ar.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ar.js",
+        "sha1": "96289421f063c2377310ecadad4898ec3b71ec66"
+    }, {
+        "filename": "gl.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/gl.js",
+        "sha1": "46009613349c689afe1583e7dfccb00c528f18a5"
+    }, {
+        "filename": "sl.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sl.js",
+        "sha1": "f1c4a8da42a6c70c7d865fbea037da8d643fe689"
+    }, {
+        "filename": "he.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/he.js",
+        "sha1": "1fe17f1c5fd6c9833c0ba9e75959ba5faa642f21"
+    }, {
+        "filename": "sv.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sv.js",
+        "sha1": "1a24995dc5590990c8b718342bed961c7d662ae8"
+    }, {
+        "filename": "fr.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/fr.js",
+        "sha1": "5c338c55682492db3297077ec42d7df144dd9645"
+    }, {
+        "filename": "cs.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/cs.js",
+        "sha1": "28bbd98169785daf73fd01a4d33ed6d57a433e66"
+    }, {
+        "filename": "hu.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/hu.js",
+        "sha1": "7a7c4397ce2a5673f84486b2196f5bc0daa5ca27"
+    }, {
+        "filename": "cy.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/cy.js",
+        "sha1": "b0221ffe115b1bc1fe332d6962343161ef59d224"
+    }, {
+        "filename": "ro.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ro.js",
+        "sha1": "ef838f2b1f44d884adec10ee9e57eb7c5ec3c68e"
+    }, {
+        "filename": "pl.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pl.js",
+        "sha1": "8b9fb06cc847ca820f8dbce0847a1a70c62bba40"
+    }, {
+        "filename": "zh.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/zh.js",
+        "sha1": "81651627b35f37ddede380b287e04888bfe829cf"
+    }, {
+        "filename": "pt-br.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pt-br.js",
+        "sha1": "464c89bb2222059c9cf86dd137c06637e139a6e8"
+    }, {
+        "filename": "da.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/da.js",
+        "sha1": "c1e1955f2fe686dbec20df281f9a8dfa4135dece"
+    }, {
+        "filename": "ru.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ru.js",
+        "sha1": "8ee49c6501e00927640d803abf7a82c1ea7f60e7"
+    }, {
+        "filename": "en.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/en.js",
+        "sha1": "9e3d5167dbcf51c322cd113a48c9dda62851f4a0"
+    }, {
+        "filename": "tr.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/tr.js",
+        "sha1": "66e79551b739d0734cc23128b19ade400d26c2ef"
+    }, {
+        "filename": "no.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/no.js",
+        "sha1": "a42b987c4d6d6a04fe7f78f78e6ac94fb67762fa"
+    }, {
+        "filename": "lt.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/lt.js",
+        "sha1": "b25c9b06eba9303d9bec957a4d5c6d58889c449a"
+    }, {
+        "filename": "bs.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/bs.js",
+        "sha1": "bffd350c21124e8f2926d2044dfa7bbab9047724"
+    }, {
+        "filename": "ckeditor.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/ckeditor.js",
+        "sha1": "ccda1dd7e83bd4d9116d30b61f4a0803c46f67f1"
+    }, {
+        "filename": "config.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/config.js",
+        "sha1": "8ebee2f862004b9537a108f0bd0713c0ea2f8591"
+    }, {
+        "filename": "styles.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/styles.js",
+        "sha1": "25a0b60b98ec3b9b8f53a5bdc6a9be01efb15c1e"
+    }, {
+        "filename": "build-config.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/build-config.js",
+        "sha1": "0224dd287f60d8bdde2ce5d1b2e8aa711fd85503"
+    }, {
+        "filename": "promise.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/vendor/promise.js",
+        "sha1": "2d67c3d55a72f6fdfc59914774e46efba774c535"
+    }, {
+        "filename": "angular.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular.min.js",
+        "sha1": "b53b74d8e0b732dcdb98fbe521146b88299ea2f1"
+    }, {
+        "filename": "punycode.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/punycode.js",
+        "sha1": "9e11284fd71728c76f08d1c84fa484074e59ddec"
+    }, {
+        "filename": "angular-material.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-material.js",
+        "sha1": "78cf11761e14b4fabf982d0cab32de9e09e64410"
+    }, {
+        "filename": "angular-aria.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-aria.min.js",
+        "sha1": "71dba86623f14deb39246c78fbbe0a0175de833c"
+    }, {
+        "filename": "angular-file-upload.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-file-upload.min.js",
+        "sha1": "782cc0bd287f7d5d91e5760b3626672cc3a262b0"
+    }, {
+        "filename": "qrcode.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/qrcode.min.js",
+        "sha1": "2d06c1f823f34c19981c6ae0b0eb0f5861c5e14b"
+    }, {
+        "filename": "ng-sortable.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ng-sortable.min.js",
+        "sha1": "1fe0b377d03e564e5e896f6007a606f326e5af09"
+    }, {
+        "filename": "angular-ui-router.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-ui-router.js",
+        "sha1": "a2909ef2df5a0ddabd09a0679d99a03298fa88d6"
+    }, {
+        "filename": "angular-aria.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-aria.js",
+        "sha1": "51d5fd730e11682fbae29dabda78923ce86eee2a"
+    }, {
+        "filename": "angular-material.min.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-material.min.js",
+        "sha1": "3ebeee8d232e08ca754de4e2d549f49597670ce8"
+    }, {
+        "filename": "angular-animate.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-animate.js",
+        "sha1": "dc9fb55f2c7f922c5ba83449266239ba1353db45"
+    }, {
+        "filename": "Gruntfile.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/Gruntfile.js",
+        "sha1": "ba8cd3f13de818168a39ea0d1984c7307f94d628"
+    }, {
+        "filename": ".versionrc.js",
+        "filepath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/.versionrc.js",
+        "sha1": "ad2edce1ff9e9cca075565cf3df0f39aaffb2259"
+    }],
+    "projects": [
+    {
+        "artifact_id": "search-code",
+        "group_id": "search-code",
+        "version": "",
+        "level": 0,
+        "type": "user_module",
+        "package_manager": {
+            "package_manager": "pip",
+            "language": "Python",
+            "working_dir": "/home/jackie/scantist/search-code",
+            "running_mode": "normal",
+            "characteristic_files": [{
+                "file_name": "requirements.txt",
+                "file_path": "requirements.txt"
+            }]
+        },
+        "dependencies": [{
+            "artifact_id": "GitPython",
+            "group_id": "GitPython",
+            "version": "3.1.40",
+            "level": 1,
+            "type": "dependency",
+            "scope": "",
+            "dependencies": [{
+                "artifact_id": "gitdb",
+                "group_id": "gitdb",
+                "version": "4.0.11",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": [{
+                    "artifact_id": "smmap",
+                    "group_id": "smmap",
+                    "version": "5.0.1",
+                    "level": 3,
+                    "type": "dependency",
+                    "scope": "",
+                    "dependencies": []
+                }]
+            }]
+        }, {
+            "artifact_id": "pandas",
+            "group_id": "pandas",
+            "version": "2.1.3",
+            "level": 1,
+            "type": "dependency",
+            "scope": "",
+            "dependencies": [{
+                "artifact_id": "numpy",
+                "group_id": "numpy",
+                "version": "1.26.2",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }, {
+                "artifact_id": "python-dateutil",
+                "group_id": "python-dateutil",
+                "version": "2.8.2",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": [{
+                    "artifact_id": "six",
+                    "group_id": "six",
+                    "version": "1.16.0",
+                    "level": 3,
+                    "type": "dependency",
+                    "scope": "",
+                    "dependencies": []
+                }]
+            }, {
+                "artifact_id": "pytz",
+                "group_id": "pytz",
+                "version": "2023.3.post1",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }, {
+                "artifact_id": "tzdata",
+                "group_id": "tzdata",
+                "version": "2023.3",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }]
+        }, {
+            "artifact_id": "requests",
+            "group_id": "requests",
+            "version": "2.31.0",
+            "level": 1,
+            "type": "dependency",
+            "scope": "",
+            "dependencies": [{
+                "artifact_id": "certifi",
+                "group_id": "certifi",
+                "version": "2023.11.17",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }, {
+                "artifact_id": "charset-normalizer",
+                "group_id": "charset-normalizer",
+                "version": "3.3.2",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }, {
+                "artifact_id": "idna",
+                "group_id": "idna",
+                "version": "3.4",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }, {
+                "artifact_id": "urllib3",
+                "group_id": "urllib3",
+                "version": "2.1.0",
+                "level": 2,
+                "type": "dependency",
+                "scope": "",
+                "dependencies": []
+            }]
+        }]
+    }],
+    "graphs": [{
+        "packages": [{
+            "BOMRef": "BOMRef--numpy-1.26.2-0",
+            "artifact": "numpy",
+            "group": "",
+            "version": "1.26.2",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--pandas-2.1.3-0",
+            "artifact": "pandas",
+            "group": "",
+            "version": "2.1.3",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--pytz-2023.3.post1-0",
+            "artifact": "pytz",
+            "group": "",
+            "version": "2023.3.post1",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--tzdata-2023.3-0",
+            "artifact": "tzdata",
+            "group": "",
+            "version": "2023.3",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--requests-2.31.0-0",
+            "artifact": "requests",
+            "group": "",
+            "version": "2.31.0",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--idna-3.4-0",
+            "artifact": "idna",
+            "group": "",
+            "version": "3.4",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--charset-normalizer-3.3.2-0",
+            "artifact": "charset-normalizer",
+            "group": "",
+            "version": "3.3.2",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--six-1.16.0-0",
+            "artifact": "six",
+            "group": "",
+            "version": "1.16.0",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--GitPython-3.1.40-0",
+            "artifact": "GitPython",
+            "group": "",
+            "version": "3.1.40",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--python-dateutil-2.8.2-0",
+            "artifact": "python-dateutil",
+            "group": "",
+            "version": "2.8.2",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--certifi-2023.11.17-0",
+            "artifact": "certifi",
+            "group": "",
+            "version": "2023.11.17",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--urllib3-2.1.0-0",
+            "artifact": "urllib3",
+            "group": "",
+            "version": "2.1.0",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--search-code--0",
+            "artifact": "search-code",
+            "group": "",
+            "version": "",
+            "type": "user_module",
+            "isProjectNode": true,
+            "isMapped": false,
+            "projectNodeInfo": {
+                "packageManager": "pip",
+                "language": "Python",
+                "workingDir": "/home/jackie/scantist/search-code",
+                "runningMode": "normal"
+            },
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--smmap-5.0.1-0",
+            "artifact": "smmap",
+            "group": "",
+            "version": "5.0.1",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }, {
+            "BOMRef": "BOMRef--gitdb-4.0.11-0",
+            "artifact": "gitdb",
+            "group": "",
+            "version": "4.0.11",
+            "type": "dependency",
+            "isProjectNode": false,
+            "isMapped": false,
+            "projectId": 0
+        }],
+        "files": [{
+            "BOMRef": "BOMRef-3ffd9f3d5aea5cb1f350ef0dd2add8db994de85d012999c3e283c7414a91b8b3",
+            "filePath": "/home/jackie/scantist/search-code/requirements.txt",
+            "fileType": "SOURCE"
+        }],
+        "relations": [{
+            "BOMRef": "BOMRef--pandas-2.1.3-0",
+            "relatedBOMRef": "BOMRef--pytz-2023.3.post1-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--python-dateutil-2.8.2-0",
+            "relatedBOMRef": "BOMRef--six-1.16.0-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--GitPython-3.1.40-0",
+            "relatedBOMRef": "BOMRef--gitdb-4.0.11-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--requests-2.31.0-0",
+            "relatedBOMRef": "BOMRef--idna-3.4-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--requests-2.31.0-0",
+            "relatedBOMRef": "BOMRef--charset-normalizer-3.3.2-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--search-code--0",
+            "relatedBOMRef": "BOMRef--requests-2.31.0-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--requests-2.31.0-0",
+            "relatedBOMRef": "BOMRef--certifi-2023.11.17-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--requests-2.31.0-0",
+            "relatedBOMRef": "BOMRef--urllib3-2.1.0-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--search-code--0",
+            "relatedBOMRef": "BOMRef--pandas-2.1.3-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--pandas-2.1.3-0",
+            "relatedBOMRef": "BOMRef--numpy-1.26.2-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--search-code--0",
+            "relatedBOMRef": "BOMRef--GitPython-3.1.40-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--pandas-2.1.3-0",
+            "relatedBOMRef": "BOMRef--python-dateutil-2.8.2-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--pandas-2.1.3-0",
+            "relatedBOMRef": "BOMRef--tzdata-2023.3-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef--gitdb-4.0.11-0",
+            "relatedBOMRef": "BOMRef--smmap-5.0.1-0",
+            "type": "DEPENDS_ON",
+            "scope": ""
+        }, {
+            "BOMRef": "BOMRef-3ffd9f3d5aea5cb1f350ef0dd2add8db994de85d012999c3e283c7414a91b8b3",
+            "relatedBOMRef": "BOMRef--search-code--0",
+            "type": "DEPENDENCY_MANIFEST_OF"
+        }]
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f8b2490bb693c38a1bb88b35e4443070e4eb115f3b0f2998c266f7a1306d504d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a5021f91903b093fa4ba983f3ef72bf97b68f6d1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/tooltips.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2951f1cb48e293d6fb2f2682b549c269ab685da90322b7c2aa3ffe54c0975d43",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "cf487f0286094540cbe7707454f8765059fd491b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/flooble.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ab7331d9e067d7c7ca37b212a960c307be2a169ea972398141189d4cae998c9e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "75085aca4dfa627385a1706671f22dab8bf0c91f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/phpRaid.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7fe84e2e3618d59c4d56080be0a6b385431c1bd307033d22513a37aeac9b67d2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "64d2a10f37c0d50363a42f42b967d27482368ab5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/fixedtooltip.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1ab5342048fc322a12bbe536086c15765b29c6c2b312fad9dc7b040a2d1a11a4",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0bd073c5547a9c7e7f2536f77be691abbaedd6ae"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/cal2_conf.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0ccb284068f7a38650333684f729fee61ee6067411716ad379185918511d6db6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2a5716425feb9e4103576615a01ba4eecba2c37f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/templates/SpiffyJr/scripts/cal2.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c5434ca58c8b84503ce652c0d8faf0b94e4bef304b33b78b98ae0cad4a2732cd",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "e530d6e78108f33ab6a318b909f5f8b6f92a2b69"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowitem-tooltip/js/overlib.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-bb5801f6507e86228c2d6f6d49c953a3dc1cc586570a3b7fb5696c57ca901a33",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "249de1659df0ee567cc1727717a69a5293ce942c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowitem-tooltip/js/tooltipnew.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-008a069feaf9a4b3c89cc07c5df150d2dde15097bf45c94ccf5a5efac72c649f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "e530d6e78108f33ab6a318b909f5f8b6f92a2b69"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowchar-tooltip/js/overlib.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-78b829d397743a910133744489e7eb558bce037af317daae761b8dd1b3f34e9e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "97b9c04e1e082140a23c6f9e5a30a2132f570a41"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/Illydth_wowraidmanager/wowchar-tooltip/js/tooltipnew.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a7de1751e13e8d923ebf28c592a30ac1cc56575dfcd41b6c200881e279b7278a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "eae19c6c049742df8c4b5d830d39e0fa16516f87"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVSchedulingSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-38d7d5f3e0ca69b15c24e23d2d9b6dd4f150b4fb37c0f6bd1224abe18b96a06b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ca72bcaf7f2f0df283e2d225597db04a34750ac8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVContactsCategoriesSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-dc0c9c1a2fcfee50a0f02636f17384b95d47ab67a593543b1a019b6bbdc71f93",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f2195ee8a20e5cb85fd84bd0ddbd380cd08f8482"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/ConfigSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c840c05f14ba461212cf0df736d78142b5efa716bef16def4a78fd395ad67ce6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0bcd6af771d6576eba4ae8af1468bf477ac1563f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/HTTPPreferencesSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1be6b37708e7f80113ce324d66628ff54c1c9ab4c4a85a43b48b33eeed4ffed0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6f7a73eb6af51e3f110c0b5d78cac238053717dd"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/MailDAVSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0037529fd96a36b6a92be0f0f6e111d73f7d9ddba161ab6768000af6e7923359",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "68216e4b1b32eb3b8675e4af99f2f1464fb66d42"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/WebDAVSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b5d8917f8a28db938e069548296fb3ad12f90e65ce5840cb30087288b54d7b2a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "21ae7254735596cab5efc5e2acfc6034426b0b46"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/HTTPCalendarSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-289fa4f1f974d23a639f354005814d3a92b7cb5ddc600953de8a733411b4d55c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "66ab2b9d05710109aa8796c8bea15498147df498"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/SogoToolSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-949531fd9687d60468da3e3e3f907cbadf371b48b66cd975e16fafc23e7098c0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7a65fda8309863aba5ae0588aad58b636b52828a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarSuperUserAclSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e9bd0592e49bc68b4890c9bd7dc468cbf519998f567b88ee7e3186f3064e97e0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "4da30873ee9df78f2945b0645b4af2c6b4eb7218"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVAddressBookAclSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7bc5ef0c67ec040dd6087167d7be4f8d1b45ef62676ccb95457e9634ea0bb1b6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "786a5e6de7fae05d0d3980adb4ea528f93cf2179"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarAclSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b83c260f2b5b6b27120c816e4ef7dc4dbf5c526257a0a4d1c30814fe2873bc9a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "eecec82f1dbabb1d68cc34fe6be68d0c093d287c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarAppleiCalSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9734df7f1e692ad6058bfee387bfdd8667e7cf9ea4776231042a436fe7e4ae81",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "3d1a2df1d111cd5d829cfaa0d8f360cd36a1a617"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVPublicAccessSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c285fa8bbc04800dff9bd5494c5c7356b150eb300933fb69e2c04dedaa3f4c2c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a8f6220b4b1898d48d11962173be41747bd2fca2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVPropertiesSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6ca3ae9aae29d5dd3dc55602ada440ef14d283a16ecb88939b09dbaef6ec5b70",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "82a9856870f2c63006bd592be3082b494a778be1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarClassificationSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-dc94f4184af976f23a9c16a54eb6e287f67fedab15e73a8573de023cd3661cbf",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "afaa72504c68484eab5cd40fb7720eed5c84a1be"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/DAVCalendarPublicAclSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7efbf3adf86b4ffc1a9dd190094f264af36686950a0e0f59ad7671bca8c98a8a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7a6ebeeaf64fdecf59389f32e02f69e6c42bd19c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/WebDavSyncSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ba1b2773adb14cc4023d76a689cb9d95fe1bddf43384a9f1a5e4eebb8968be9f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "46ecf9b3c2e28be98be5392fe4a73ae31ec44bd7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CalDAVPreventInvitationsSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9e43255e29779a48b68d78c18e6dbb18cb81468c8afcc657860a35306addc30f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "41a3cdd5534444552319c3328b66fdffcd0707d2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/SieveSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5563217d32f64fb34c9582c6cb377afa5cb946c47593025f8c70b6e975302e99",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b0492598ab05f685cbb153e1a29c6383ab882395"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/spec/CardDAVSpec.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ecbd40b8513b00aa474959566912cf5054867d99308409b23cc114bf1a4a22c0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f5da9e6a98d79d6c1e47565bb23961f41fb41e60"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/Preferences.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-cfa9a8562cde24bea358477c405a2132eeef93d38dca681c00a1b0467816b00b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a5ad099ed2beb65de5b7f35840d15a5565e835e1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/utilities.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-af89087982b99f27d0944b0955ed57052fc0f37ee916bf9cb337db617b36f584",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "41ccbc8032511ede9ead32ea029ab1324938c681"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/ManageSieve.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a5a6805c6d332af0723667969ae6a081bf0f6499a56a7f1ceae4ffef18a3defb",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2ce4c20a427d2e325aed087d478c8e73b023cfd3"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/config.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2d937a5d445d87bc17d29b92a69a523b17c8b4748f2bc78f9a6283b8c204cd8a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b4e5e83caaafea59dd2f1704041a7f6e609f39f5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Tests/lib/WebDAV.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0f897e19e65041714b8cc729287a874306b233afe4c64f5dc420b82ff79a2713",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bd11783101b454299bed84fefb21037e5502e28f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/Scripts/standard-version-updater.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6d2b6ecf29acff89e9f4bf3d77011029c27fb025bc3b0c00c804c72576da20ba",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "92beea83b5c6d1798f082f0ab887950b6ee3ccf4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5ee58a3f61f3b0625d1aa8fe9c4256605ad5160c47f455741c750af1f245f86d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8b88b6aa585402a18a59103eb2442b3a1e2f163d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/ThemePreviewController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b875c3cd9ac3a4da9bf5238a8f90ddca05f13cadbc74cd654d7ee0e9a611779e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "67b0ba96565caeb1c2758c8409fc4e8d8276c324"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/Administration.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7522d929b42aeb49cde017ef457446074b8da617fc4f5506c9ea85a9d22d2b41",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "925f2b46f096029d54acf461781c86fc8f275fec"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/Administration.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c6902dfd4150eab2e9bc48b2261cee81306c351fb077650d87b6af2cc9af731e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "104b5f2ab94be79024c56d1936b9423108046f4f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/AdministrationAclController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-837e0c9e8e2bbd3331049601fe82dd7996102b299296bdb5be5a851ad4773470",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "93e3e27af736796839d6d14799309999904f684d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration/AdministrationController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-099c7de6cb8f30ab2e3d83ebd4b1c948ec0a99ba0777d6172d2360f4baa6e676",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9c5c87d9c91b82f4e272f77a2f943f573d31d2da"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.services.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-45a54be8c2e5b365d8bb6e45229cb9cca53bad3db8e81d836950cbf903b967a3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1d7e5a04962d8421f3fafcead919ad4fb8130e64"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration.services.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0f92df78e475a74f02cef4d384ac1284cd614889fb51dac835629c6056cdcf3e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "39cc73777b8acd589c6a02b380ba257dffd33bc2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Main/Main.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-386706e1c0b6b6be6ac9607ecaca1f8375f52bb96cc963a4bf6029e1c0b64328",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7c1aca7d2d27b14f744c1bf44ba196365fbe3f81"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f55e6d64cc8370a24b131cb17c40d2db5ab5d81df21f341bd1ba8a4f7c75697f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7f9165ab0df7ecd7bf6131c6d66311ef9e36c43b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/FiltersDialogController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e784d74b977258aba36fca145369501da6275f15479b134989dffe39768c9f07",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6a02566e3eabc9774fe6886523ef853cee2e1e18"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/Preferences.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-47598648ed28b02746a0dcd0bc3a6b80ebfc8886173da52e104fdc097531a390",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bac26d4e59bbd5af996a9f858984a61f9f3e8b31"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/PreferencesController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1de3eaffda3a2631f1b6b81bb64d06d41105453fd4dab09c3fd2897ad9d190b2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "cd70142bc539ebce9400f65d1c1a41a67e0e3be9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/AccountDialogController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6657089244492913d196fe193e819dbc4d925baa6195c2ba822165c6cf3daf98",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "20271b7a03a958f1f3fece62fa227f977564ff23"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences/Preferences.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2ebd8ab3302089c0b278a4d8a77d6cb07e657a308f6e0b06eef92328f013dd5d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f6991f510548ef217c4b6b484adfa996b0755498"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Main.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-325ef43889671297d0f955b0b865cb656baccd04dc33c125c7ffdae57f4debb3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "79dc26132eac97c859310e423274d6f8087343d7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e15670f500531aaa91ab3cf94fdfd9c56966a3cd455d6fd6b5bf35cc71dd64a3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "977e12ec07ae1f2bafb6e691e77c10de711fb419"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Preferences.services.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9e3eafa9a855300e3310ac276f795594def1f8c2fd2804c608b87d4b2828bddd",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d51326019864cb01097ad8e1a037fcf06e27889d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts.services.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-78dd1ffce76c45ce8e7723b932eadfa9c17cf17e9b7e915a29586e842b6563fd",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "14f4d5d791d4d83c095bf5ea40ccad554df96f42"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBook.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5b5a5dc46f230afae39e05d9dd921ae05e369dce33ea2a80f5ec48e67be3910a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "edc08bf500dcf9dbb0ebea210e6da45f8b2b6b30"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/CardController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-993369de7b3965c81ba63d805679e1d5fb146e2b9df92d55dfb1598a08fcd5e9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d2cb4d016c1a22d90e26c22d5d7db36f641f6cb6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/Card.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-547ceb0be91701ca1da191401d06d732e6e51dd9a05df0b633426a01eeb4f1cf",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "195cdda685c351243f3b512467b74f3cbd432fa3"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/Contacts.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-cc441fdc661247233ef6f84206bb53eebbed7cb8edf56452025a6a7da7d61d2a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ba2d181ec5e9b3af75111210f1429660ffe571f9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/sgAddress.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f0486cd6c517b68bd61b9f2e3665ebfc9f0bee698aa2c487219e0067ac5bc95c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "27ebc5d61ee93eef3567784f5118b4e8397fe64f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBookController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d3572d05e88ad1fa03daef60287aacdac7118b21a4520c9fc46a77dc9dbcd656",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1c582b1d1ee8f7e8443d6ad8c22c5428f43307f9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Contacts/AddressBooksController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7ae56486c231dbf88bc29a7b11724d2c6bc75e1aaeb5d5a711dcdf447ecb3f91",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0ca8afbe60bcbc72c4dd9038867cbcffa2be9eff"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgAccountSection.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2976cf8941794338833c9c437338fd1fdc6b99d02d6d6a0f93a07b1b3f11628e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ff91cccebce05054ac9c5c9bff8f862a0998fa90"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailer.popup.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-12318213e07e12c5547357e6d0d063b7aa4d4b23a560f3e4a98827c46129bc5f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a8bff7cbfa490d5d584860badfc4a1c2afb0f383"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Message.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e4a58a526f19e6b4683f2a03efa2af09aff0376fc56ba1c2b518ecf35e3f605f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2238ca5b256a622f5da3de5ba443f2ed039b93a2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Account.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b03e115b636481f2c50e4833f02749054fcae1a2d6cc728da0b7ad38f0fc8b48",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b571c8751b5feedd032b0efff33253dfd8fb8dcd"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMailboxListItem.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-37a62dc1190bd1f642978238181981e3cee13513ca396127c6052392f86da86a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c9f294321812ef545056b881417bffdea224d9f7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgImageGallery.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e0dd0d0fbe1f0f7df19a57779cecdf338eb50e57692a481f81ec007db61e8e45",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bd138bf295b27505d58b10395e2996ecbb8ba2fe"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMessageListItem.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-96c40977c95d763c32d16ba04d76e7328fd171716a39f97a94835d64b6792e71",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a4ac09ae6de6a98bf2e294fd320122ae322aea07"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailer.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-eb68bc232199bf6e49ce68d184fed520dcdba3bb5d07f94312cf329d213971cb",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b481485e757286ce5f57efcca52f8bb64fff3ad8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MailboxesController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ee3337bbaa33d3c3473aef3ef24847cb4c03da29ac434228205eb595acf6485c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "3f83f92683d7013652dc9bba1dda0ef4ffb05634"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgIMIP.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-92d9a9a4dc188c57d8a34d61a0cf3d83118d662eb98b1c333a5bf38dee587b85",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "876a54ce507451c01d1f604216ec821a18dbcac7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/Mailbox.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b5e4ca44066114bbb2bf09c50aed0b456308bd31b9f3ea7aee61963d0c5d1a22",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "4120e4b3efd8a74c099d9cec9f064007fb220f60"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgMessageListItemMain.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8f89ef0489feb8ab1bb16d60f1d545d8f91b08c8a081e2d8e12cd968577e6e48",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bb0f227025fc4f03e2061b7096200a7614da5497"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/VirtualMailbox.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2fe9e8664ed98849bbca36b730871fb93a53f9eaad59e22a519062364d96ab93",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "5ffbe2dd02321289abf4a3a817578ecc63ed5400"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/sgZoomableImage.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5eb84cdb7e03b0a606aea3668e4700d8413edca28c6a7775933b56316efb6a0a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d348d7b21c924cdce661f19f8dd30b01007de623"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MessageEditorController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b17c6cfa61d5c53d678f393cc93ff2a5595a14ac21e9e385b18c544a722a53dd",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "709e119fcc8f4aa9370019f4ea20f08780e408aa"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MessageController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-3a6cd509cb2e64cea8c8ef55aedd58ac9c7b6ec2b4cb02c5fc02befbd172caa0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "74715e9e8667daa183d0e0f6b6874b46d80ca965"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer/MailboxController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-126d611e7c53ab39bc4b43601d87671cb46594bed1c50d071333cf9472e1b1b8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "80cfcc94c88528ee07fc49ce216d3814e510bea9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f3b767fb612e0b1b409f5e1269f5cf94210aa1a75ae307f6085d26ad8bb62d3f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "929acdf8bfd8d8f7fd64cefe7f1ee4bc9e455b11"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Administration.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d8b751f51fa6f73120ed9dfeed84bd7c08e91b16d21b84f213030d28c63f8c1b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6716c2439f5a16a87f5dba9f7a133efdc48fc52a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.app.popup.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-19279e67a648233ea478d46c6ab206f7b97a193664cbf4727591d27d8bcb933c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a66433122d2e1f6e9f9291f0d745879eeabac4e4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Mailer.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f37b017fac9cc3ccedafe5beeba79def53154772b4460a02398ba3f62be2b832",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "aa586d5b49faa9fe9951da0ae060dbbb84c20d3b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDatepickerReadonlyInput.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1c2115093045884178eca22c84266f5330b82d6f6bd1ec3c44dac34179abfe5e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "25fad41a0b3ac4b6dfa043c7da686190f756b7f6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/range.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-882fcdde25270a98ff178e6cd07869d354a670d0ceb1cd2edf47e7892f9824da",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b00f4f7cb837de4386f4870524fe698699aac652"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSubscribe.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c1521403307926e31fbcae340be3d0e0b284bdf0fe69553768340a1a399f2ef1",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "065a3602e98b05f55e2db1ce3d031b2f664267f2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Acl.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7155900efca1346f7a9b34bfc77dfea4be9e508aeea8c02c6d8b217f5efa31f0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c5d32174b4b50a7ba832bfa274f853dd9703a29c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgAutogrow.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-db02bce268b2699586a779f5509cc9ad836ec606b67857c5fc090661d7c4e6c9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2623369e0cf99f81cecbb87669632ac01b104b96"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/User.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b5abcaea2da16c47f737c8a3e19ac5aa78c5f6c6e6a2221dfae7e46efa98f5a2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "33c9092883b86cfb51c5940cd1525f63b265947c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFolderStylesheet.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-df00d962229dfb757dac2204722ca899fe79a2fecb4cbe48614f5b7c6ddd791f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d0b6ddaf064d0e54a76ae78ef1843fd0b39d1c6e"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/decodeUri.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-42002dddd1269d7b5e4dacc9dc9ea955c6d0ca380a03df610297c30b311999ca",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1ef5b009762421ed91a3d50d27e0e1888671b500"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgQrCode.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8a76fda1b1fdefb1605b8377b1afac16607406f30201c53e8055c80ea2824bf9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "08196f9ea5bf35bc9884e302128e4218ba423535"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSearch.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-eb954ef962dd907cca3db6d7eaee68cf820c2faa4309b41c4a8c418a26d6b05d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "54b14c3aa0519d7868ed4f171e9bfee34da65fd5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgResetOnDisabled.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-427d914b8a9e038297b74ba67ba2cb375062c875de60af272a6be87ac117cd37",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7c1ceabf57c8d8de3a0897ef8b92907f40149758"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/encodeUri.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-db9a6214a14400a1d222a0f8f942848789940095483d86700db15d0bd11e08bd",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "dba1389a1c13ab016eb171ad48387ab788ea0f06"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCompile.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-398913a3f4b2e9bdfbd4114f532ccbd14e21929715a28de49e20429dfc100f32",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a0e21eb51c06aca6e90bbb5a54d53d1972ada81a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgRippleClick.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7cc5edcd7383b74ca270be34ad26e3139189133176b5cc526bb9169762bc288b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "adfa6f5fc3239fe2d3cfab3ede4d015af2c59b27"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgLabels.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-14dd0f0bcc519dd8df2ab21d630a1e7fe3cc7f412162957812351eff09440bc4",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bcfd984e1e65108f0e8508891c3b9284c63582b4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgEnter.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-dc81afd5261d5f975f2cdfc721a8357930bfd038236f64cdaf6159fc9dd9e722",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c23857d8b36f9f5f44519a07b325aee4b04acdeb"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgPlaceholder.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-53635aaafc3b881e8563c87031d799877375beb944e1a0b01aeade1b27e022ab",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d833317f1cc56917a8c9c84f039a711a2311c176"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Gravatar.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1a8cd24139fc2a1890048f2de6aa399a94ac5f84c965264512c50f4cacf72d9a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "fec7f422d9bc7efe5b46ce926dd21ebcd472e8ff"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Resource.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4a202a95a7b7986fcfa8a0104f00528459ce2a7f819b35d6afc74f35bb062385",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b1a40538abc431211f7407a91e1cdcfbfaf138f6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/utils.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d66e97284761b3841f1f3263999793965607e0934ac0115b195541afecd32214",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "64110e1949581e7f4b24dcbcb56e9f9ef3f04020"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDraggable.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b842a7aa8c7e28afd7dbced14ebe91613667fba649bcfe7c3a3f3a8b7e4d5d06",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "472746587df6f5dfedbeefc1fa4fedadb211d52a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgSelectOnly.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-bb68d1a8110cd0c13d52ad25dcbc7c314e07a05edc9cd05e22ae53979dbf3903",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1a2f9cc9787bb1932cd545ead5f826ea0b36d3c9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgAvatarImage.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2865d817479df827469b7439eb87257bc3f6a9cff9cbddad9b2035390e4cb54d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "17a1696333c7780354e9c55c6bbd833460e69998"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgHotkeys.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f6fc53f7f3ce050960b36984f4db2b98d17d2969a94af312cc7dcdd99dcfef43",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1a8377674d3db99bf06b134c1466465d6cc58ae5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgDroppable.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5192815e9a770e8d97a6d89f6b651147f9f4679c0c8a541acf5b0669049684e8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6f1e225ded0cb5d61556a16e6cef3b729b84383e"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFocus.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-49d1690e025c1a27eb8b449b44adafbcc3c3c7f8dd55efeb0e1d59b07d8fa632",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "349494a2b4fe05daf0dd66ac7fc2658a7b7a2aaf"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgToggleGrid.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a99f25b1b35c8130e9e1103ec62c75e707555943b6f3483783ecb5733a107cb9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c63812534076b28bc546b635c7df04740bc4e89f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgNoDirtyCheck.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-47e6ef1979e25065b7084d55186274355cdb7057caddb0de422d1de39e8e353d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "01ea6fa7182933cf99b18acc119f9d2e2837df7b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/ensureTarget.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e5d456f83cdf4f8f97d4cb7a4d8e675d537e4bf59a6bc2a3e8c708e9f4093ef1",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "5db5d4a2eb29f45766a63fd7609f8845f874f8be"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Dialog.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e0e1483a04f128e0a22964ebc39d4ea8749a3c5e06afd37363ff75ae2405000b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "43c2776fbcea0e10ee944a8988115f9b4b04c167"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgBlockToggle.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b545d1f964b7b5fc61df3003df069f3285b9583a4b434fd35ae8c73ced0db933",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9c47701b946eb8420c120aa953e5a24c71c933bd"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Authentication.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c3f92bf2c9dabfae1b5cca46f679d36957305e8f83d3989aad7c0e216e6a17bb",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c5f0148980ab60804a7e8337bb9158a3dbda5ee3"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/mdColors.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-fc8de9b2c4066ead15a04ac9eae56424e09f702b9515fd51b81170cdeb489bfe",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "4420effc94ddd463483c5e23d39d448f89f54707"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCheckmark.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-44c1f70659f613e71dc94bac5d8d171bb52c485fe204c5dbe5a18d262c92a4f8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "46a20cbdf26a52818ed0b0a2d13b202e5236c0a6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/navController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5e319e35caacb6985c6969f9f6441ea2b873279cbb17e6649b0608580d1dbed8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "346e05a5a660dc7782562726ae6ef593c13bc8d5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgColorPicker.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4d7cd167a3fd3d2224e0f624b060db1fbeda4a9197ccb09c2c5919a46103fbc6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "effe1176b5c91c316350530374a8209268dcfd60"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/angular-file-upload.trump.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-451ff30b8725b0d3c49efb8b4f3e1bbca647ffcee3bc52787f901c06b83e67ec",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "e2514842f52ab6d788d82fbd123b6a2f6791c86b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgRippleClick.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8c54116792fc6213ac4d8e4b878cee31c6b868c4a1ddf3c07252379f844b7af0",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "68bf4b1a3cfb00265605be75d59ca9e23f1dd9da"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgCkeditor.component.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ae550a2e75509bbe21fdccd1d711dde7a931be9a6c091608fffd3efb46ab7477",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7e27e3268f4d3682fbe63b9b2a91b8dc23a509a3"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/Common.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9594e5dfe884fcae601ef24ed6912e1396ad3bf481c32df3510bd18807d0a049",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "fbad9abe3721798ee8bc2cf6d8ebe84069b79b55"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgTimepicker.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-480ac44923d565633bf21b1d771961057ac8586b10f662cc09b0e95373065457",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "969637ce0f9761a41cd143faacda12a10e141d65"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/AclController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ee55b2fd80d90883aab4e5a6541d4fb06cd563281bdcfacc7a27bf725849d724",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "58a8e367088d8ee3e8407a9b244057998430480d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgFocus.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b85b7fd3432878cc3d65655966c8419cedf86de3e2363e619e9ef6b1bd15581e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b240bf6cb72d2eed8a37dc03f332284664183c81"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/sgEscape.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-86fe54f5bb4fe12b8c8e99bb7c3de46df6947f952b6c68e1ebc9fadc548221a8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "34f5c278952b880f0047435904255d1b58e16a8c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/txt2html.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6af6ce38d46dbf92b57dd56a5ac2f0da653abe52ba8d2551678069bd43ff2cfb",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8b412f43951672774894cef6d77034d3e7028aa4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Common/loc.filter.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d8f42f68735c4d9012f7dac6c77cf752ac84b11d179d40f43318011af5c832bc",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "016d10d1bb146f07ab2a71429ff383c0b638e877"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler.services.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9be3b9673f0a61e6a426417fa58041074a728c10ced92f60033c7b9b39a344da",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "cea1c268d8b9a0ffe8454770818dc78a025510b6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgDraggableCalendarBlock.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-388abeaf396ec3b89831b59958d894457dbd313bfec77845cedc9fc01fa0b318",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "441ccb28e55a01ec81f3ee5717aafd6bb77ce483"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarPrintStylesheet.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e29786b4ffb7c0f0940ee8ab0c7e6b3dc16f1345ae35c658e1ccf5035cbdb457",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f68d3ca939b1562efbcdbfb692c1def9743cdffe"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarMonthDay.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8f824f4fdd476bd2df547c31218fd617514b5ba2025ec3f4cb29e40550028601",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c10bf7c148a6b3a8eb1b7848c324db9129c19653"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Component.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d76cca0e6ebaa49c249b817caab17e9a9860877fc9aa1b542250219b2ece6d5d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "fc71f5baf1a83d089c41980851d3b9426674d2f8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarListController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-40dbee159079706b1a9a50d7ceece31aedf86281bf9c8d9063070e20ad8aa383",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9c07fea4bc11ae2663e5597cc214bb630511c0dc"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDayTable.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-29584f71349ca3c0da8e31993e7c221722fb66f456b2ef0519f63ec8d4ff86cc",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "02d9728c3d01dd662c9b9af6e3805660c2f20ac0"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-be4026d5d72b0ccb44749a33bbf33993cb69e53b5d2397775273a203745c298b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "32f1ab2ad3dc3e1bad8a48631989d7b19bd73b1b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarListEvent.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0afab7e3268b7dd56fe4b472fd20d6b24f748f25ad9ff188f5aaeaaeb2486551",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "53c92a6dd67fa4116d4ac831aa096dbc62b57378"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarMonthEvent.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8d849265716d282e2b181fc4e7eb094dbcba72fcb4ba67911ada6516faf5d568",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6142fe172a7f6534d0a69540afd2ec3813ad3276"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgFreebusy.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a063814f3eecde5aa66e3393fb553b97eb5d8c096f3d105dd65f9658d92c7c9a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1d347f471dc71124ccf6eb34aabff4df67dc11cf"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Attendees.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-98fc37a406dbc5b5c988d5bd15f2fdab6c24a1725a19c5f140173dbfb0199c8f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "271b1592b966cc0f7fda37240cac243289a529b4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDayBlock.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0c738bda66dc3132b5f6979b774a6c70a620744c5e061ef0381c12b62370bc9b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d0ea33d8bfd8bb9e4ccabee8c699289f94a125d9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgNowLine.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-5765c9c297427e02828233b54b6a07bb586bb385766f7a444ab324a0a7962c5c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c94a4e930bb4d3b9228d40fa82d5170958ccbcc8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgFreebusyDay.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-88d8c221e37d06b8af42c3539a71e164fc6e1158de367d7d7c6bd23a2fbf82c3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "d1977a59c130bbd61686f51828e0c61ad5b0f845"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarScrollView.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4d7a0e31b4b1752a79f77c5ec3c4bb2de83834d94e750199e766db75b1153651",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "39256f4f21d716b751d2365e7ff50cea38999ef2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarListItem.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b36b7ac5a56e497b610e6520ec00be5c0f95a20049193bea6f17d0e1f9f3d5a8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7ee6d5276eac3f537cfaa00822032aed70d7c2d7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/CalendarsController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0b56055fe1434543e3c14f3acd2e22563b632f0477c12798387d373424fad9ae",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c9c56bd52b4b218956d57ab67c698577f46d9415"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarDay.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c276ce9b2c4458c2f1723292f06a8b89b23b5e9bad09e0acd54bcf406b5ed6c9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "733b8e243d80ecdedfa39752d14a1487bafa0be0"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Calendar.service.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6b6983f9b2660f74f8aabe5ce65c1a3b323dee8492edcfc24bfcdd60dfc24831",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "e3a8ce11bcad30f356baf76853fc9a4922e2bac9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCategoryStylesheet.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b8079adb284a6458cc3fe18cb403dd99fabd394562d278ec32570108a00a4e1b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "da41565c13ac41dadd45c8a7c9c82597249af070"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/sgCalendarGhost.directive.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-aefa36a54fc0703527369e013c9431e240f45024f07e57934d4ae15a5fa474ba",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "84a7cdb697bbb851866c69cabe978044738b8c7c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/Scheduler.app.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1d4f0e210f5d774c969d67379fcbcffb703544a60581c455128bc081f8049551",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9d0a1190c8aef8dfe7bdd868d78740a1b6baa3a1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/Scheduler/ComponentController.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4afddd24eb0c1e6b30fac31140d0afd4d4288c15410f564a706165075e837b20",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "256f4865b3de7fd8b21082a55c336795a3bc1deb"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/theme.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-3591d2307d1ae5163b929dd5f4e43fcb51d9ef0c55e858ada39bc5c6ab972a54",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7acc506f0758aa5cdbc291f679869a1dbeaef947"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-messages.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-20819a99d33010bd7175d5ac41d0cffb80f79cac4a0f2c6c14cbb5d41fef6f2a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "197aea2acc25a0fa821766400950cac58a3627a5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-sanitize.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ddbfdcb758f1680357302ebb7eac5aaf3a12d3448455fc7c557c07ad29889845",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "20f43f716b9fef7d72537bc1b0e5aa2bc480cee5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-cookies.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d28fe07ed86544fadea1f9ae9de51abde45f6c594b0ed76f7d61be3fe49756ba",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0f1f7445b761b9bbd5385f9f0b316dbf1ca48696"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a8f9322b9a8e3778b61950fcc9627947cc8560569a4306ec9ed19626061e30b2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8bc7d329fe86cbf66f7cb91103558596744802b9"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-ui-router.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0712e60c3bd54aac83155002c81b400c06634b7eb1e78d42fecdd1e606a3a2f3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "03d60d1510d24a952ff370b77035b031a87c4158"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/lodash.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a54f5b49b6e426a378d8ba9db2df1acaa5ca1a8a0bafb700dff2a2441958f4b8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7dc53f75d5bf7dd2c770cb50f31242c70193c086"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-cookies.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-516207de61d4bd4f5c323e72f3a80c067dbbcff25e423fef517fdb42568df29a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "4c15a58541e53c451c6f946d2048104f88b833c7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-animate.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-3755ea5acc5e01f35c7ab8e2d5a5e9414605ac1ac2cf44ca6d619554c50fcc45",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9961bb1ec4e1d0877287b5c6d459634243ea458d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-messages.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-93741fb3561ffd8cecdc591e044624a641ead681e116a5de3a433b48f7722924",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7c61d27af8592df68d010e1c66143d07931ba539"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-file-upload.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9f5cf1329e3ca2973c5eb70a8a0bebd4a2254635a7c333c71a0b3bc762cae74e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "21355ef18c5e1ce2b2c711b9dba21cbea0655646"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-sanitize.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a171f8f23ffb4ac64d01c230bebd267d993d00229f9ed8b10e2b35392b90113d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "78625236cd6ebc1519441d2e643f5c0c8100513b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/FileSaver.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7b5f7ea5c44b6b08940b280240ec21714e6b7779c72948a9bb0f95410533b9a4",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ae854b04025db8b7f48fdd6dedf41e77eae44394"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/lodash.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-0538eaacbdee8c844444dfbdb1a277735bf6f06f580e2f544face3d6b37f9080",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "fad26c13a5c8e1bb4cf7071824cd5fa22b100cc6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/qrcode.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-39ae2957b5bb7059893888605aa26ce10a8380256f3f6af7a8a78c54a10d98a7",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8bbd6013901d77ac591b0673a0dd31cb583613e2"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/plugins/dialog/dialogDefinition.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1b87ff84f18ac2ab6cc0de18c96516bc37bc8e99e3158f813a4054af3a40d3d2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f99538a2f7eea24bd93b6865e55ffa1698c38452"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sr.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-55ad5a58b8c17cc5405f86dfd4e8997cf6927908ee94c75224adf2b5ddef8e39",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "28dfff36c189de99c387fbe04b312f03f5fd479d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/es.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-e97e972f4530eca83ec33898fb6c75917fd34ac81a32fb22ccfd9566c778c785",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2aaa3a676e18880a90b5bb7e5d2b9fa3064fd60e"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/nb.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f94c3a6983a878ee00585513f2536937112047b383efaef5afc69d4c9ec2bb45",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "88b9e2bff926ff0df3718fb18a37965a2a91db63"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/nl.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-dc1520e656b52dafe154b6267fd7534f25ffcf4ac99cbf64c2e1558e80f33772",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ee667fdb7aee61a4b4513f30bd6a5ff7f020c064"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ja.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ee0462a29d5251b434e7f420c187aa8c9557f428a5abc5ae50ef02c9342c6061",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "526d1f4fe49c092512daff5b2554fa7869b0ca38"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sr-latn.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-31afa8725a58293b42e86a3831e6fb4d4b9b331327993a9947d2c1482a493e29",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6208d2b6b2169a0155c9adf5a3f8338666471466"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/hr.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-71e8bd1854d211b6b09cae61194c8ee9e8dd6754f93b6bbd568a4869f8eef711",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bb86c751d101ebe94eafff0ac98275ca5cca1051"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/uk.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ddf17e1e4616236b85a470fa8c47cd04eb7e88eadd901ff81d68bc6619da92f3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "62e41997009ac361a251ce8f3d9fcb504cf0b346"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/eu.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ed3e0f650f988805e52257c906a5613ca8c5db6ad876cb81cb34b881e3464643",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1783af7f8a73cd13fe8bd70a2faa235ddbc142a4"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pt.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-fdbad4daa2e73c8534122451e02ed5721866e6edde7932350638f80bb58bd410",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9bbd1f57691ccea633d3abacf653ba036ac2cb39"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/fi.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-49960ab0230ab60b7a11d72121f7bd01a5b4c9a366f880069206533566af84e3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6bc2298ff7217cd3fa97db49a7783412b2670a16"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ca.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-84b567e85f98e97ce0b44d77339427dbc28b97fcfcea18cfaa74a93540c2ba0b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f4b3c3a34213910c853976c266a1a455b465756d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/bg.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4f3aa5d010df8942ef20f10384b9620717ba283578a1d320d815fb034a76cd99",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0710e28aa2523fccce8986aeb82703ae3dfadc3d"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/mk.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-fb0deb13b2c7a2eb3c460836ce87d31071342c0a45299a021e32f9422529c00e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "6a311f8a90c7d5508bc70c09fac44e412fc1d8bc"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/is.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1180c17f6c4ca518582e0a5fbeaf405dd2950963e41cda153be0d00a48ecd541",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c8c84f582bf6f80503c5cc6a67ed8646c1f3de30"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/it.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-aebd8b1ff27ef7083c4984bdb3147c02b01db37a97983c66ad737236d0374d2e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "e2ce62bfcb43de37d9092c73df78e49a0f4ddc2c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/lv.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-14ededd1cd12875d7fc823d660fd296f195975ee612a3a9445580eb502c49085",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a29622e7b7b2851bb8fa76926984135993440668"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/zh-cn.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f47a28f6d4fc8cab7ea3aa9509ab2ba4baa5a9d4ddfc87996354a56b32bf4b1f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "82aa1a45b9e68112710448a95376485ed0ed1a3f"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sk.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ed655ef69776b1ae47a66dc2ee8cbd3c138c087ca8da136e696aea4edea3fed8",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f08359b4b4bcdda9b5df6a8d47655930cda047d6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/de.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d3e5d3fd0e058f2446319bbff4615de2cd139e999c9b4de8959633ec7428175a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "96289421f063c2377310ecadad4898ec3b71ec66"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ar.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-4d288aac8624ccfbe2a93a567f3b05ea94d8e7d7df083b8cb5d8590b54f57f45",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "46009613349c689afe1583e7dfccb00c528f18a5"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/gl.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ef2bc5a3be55bf1b99e14ce3a15eefe8929a84a4a3021845544c3091f58355c2",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "f1c4a8da42a6c70c7d865fbea037da8d643fe689"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sl.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c60e096f82cc1071a42cc3e69812a984b2b12bbd61e005ec6b235e7ac64c53d3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1fe17f1c5fd6c9833c0ba9e75959ba5faa642f21"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/he.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d231944ae5bdf11a07e28b0938a811abdbaff445bb62e5ed6b0c593d65e2b613",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1a24995dc5590990c8b718342bed961c7d662ae8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/sv.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-75ac74c5e9c143843236eabcfda92e7248ffbff5806015d1d319818726aacd6a",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "5c338c55682492db3297077ec42d7df144dd9645"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/fr.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-9bbd5b99011c798f140535d84ba67f18b09de6f8e02cdcafdf17d6ed0623885b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "28bbd98169785daf73fd01a4d33ed6d57a433e66"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/cs.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a8ebaea13f0e6909487f4fa7d3e1121094b90407bd3f2dd6a9cffa37df9bf22e",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "7a7c4397ce2a5673f84486b2196f5bc0daa5ca27"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/hu.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-c579c4742f74419c6a75a3e2db39b31ec88fd15fc471de4070150baa8984443d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b0221ffe115b1bc1fe332d6962343161ef59d224"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/cy.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a935a747c0f1e1f207051173cec7f0983861cedf4f21e59c26e35de7746978c3",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ef838f2b1f44d884adec10ee9e57eb7c5ec3c68e"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ro.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a1d430ee62a2b6d846bc1918ace50e8377a34a475c512cdffcc0c9649c8bebbf",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8b9fb06cc847ca820f8dbce0847a1a70c62bba40"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pl.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f574cb0b26deb41979c8bc97f6bf4e182e706d909b23b9af4c9a49ce31e8a08d",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "81651627b35f37ddede380b287e04888bfe829cf"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/zh.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-a965ab29a931d11bf561a845641acb8731e3ba4e61a48179b1d2ade81178bee9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "464c89bb2222059c9cf86dd137c06637e139a6e8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/pt-br.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-ae5815532e1ac8b1ea128244fa43d4dc07266cf9c3b8275e4714b9cf359a66f6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "c1e1955f2fe686dbec20df281f9a8dfa4135dece"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/da.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-1d579c26d39e044038b0977cae7e8efd4194fd6621595fbae20870754c518eec",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8ee49c6501e00927640d803abf7a82c1ea7f60e7"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/ru.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8c4e0b1501f7c839747e568099da42869d969328d0b541729996a6fdd858d320",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9e3d5167dbcf51c322cd113a48c9dda62851f4a0"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/en.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-03633902a23f032cdc8f563842296f85442857f61e0e2f44e8e824394898cc07",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "66e79551b739d0734cc23128b19ade400d26c2ef"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/tr.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-cb055fe0eedd50e28c17871f2d64cc7d5a0c45e9f70e0caf22eaeb2a5d709edc",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a42b987c4d6d6a04fe7f78f78e6ac94fb67762fa"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/no.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-f873d8a9703b7fbbfc435cfe418d4755fa15d973ce63f350988405c2a597ab9b",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b25c9b06eba9303d9bec957a4d5c6d58889c449a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/lt.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-af13b1a4dba681fc13d88be3d981a967d18d17c7360db153489b9c91adac3ec9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "bffd350c21124e8f2926d2044dfa7bbab9047724"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/lang/bs.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-942378d61286bc39da736adc69f0f91cc5efba53cf205aac3d7115a3ccda172c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ccda1dd7e83bd4d9116d30b61f4a0803c46f67f1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/ckeditor.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-36634682770e40c1203c6cc45f2ac181384a72eb57a25b3a402fa59948edb90f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "8ebee2f862004b9537a108f0bd0713c0ea2f8591"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/config.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-52ec418919743cd3b0a235a69ed70503fcc67c06d8c5cf7ee174a1e5729b6942",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "25a0b60b98ec3b9b8f53a5bdc6a9be01efb15c1e"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/styles.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-d1c241e07d5a48338f6200a5fd4b4dca61c5432dd7128d17b056e92cbfe7e238",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "0224dd287f60d8bdde2ce5d1b2e8aa711fd85503"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/build-config.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-7ba00e88fd30b93daac148fc1bc08ce3d48efbf0e30e50c158a7c8612b4aa9b4",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2d67c3d55a72f6fdfc59914774e46efba774c535"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ckeditor/vendor/promise.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-36b823651554483eed5ca72520eb082481723d14fe2a414e28ecc9955cd1fa5c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "b53b74d8e0b732dcdb98fbe521146b88299ea2f1"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-58684691b6b385dd7031281c3005300af4b1d128fcd354a713e3314c23a05493",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "9e11284fd71728c76f08d1c84fa484074e59ddec"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/punycode.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-517f132cbd66817c70936522edd3e3be483fb3e497a6199c8a5763594e5453e6",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "78cf11761e14b4fabf982d0cab32de9e09e64410"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-material.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2fd0200810020d7a6c1fcdae86d2df11f3fa6e232ffa1919f2a64f55e479b260",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "71dba86623f14deb39246c78fbbe0a0175de833c"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-aria.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-eccabadd231175a158aa5790807e94ad8a03292d85ab6ebdee334c3811ead60f",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "782cc0bd287f7d5d91e5760b3626672cc3a262b0"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-file-upload.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-b95a801f2dbd8eb560544a0a8fbbf2bf05aff1ebe11e036c1b694533689e6603",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "2d06c1f823f34c19981c6ae0b0eb0f5861c5e14b"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/qrcode.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-8e3d6c45a6b78f2d2a2781286c96d86bbc6fbe5b0c72ab2e9326777b0daca7ee",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "1fe0b377d03e564e5e896f6007a606f326e5af09"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/ng-sortable.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-fd07d625049297d148adf54028244c517ea4bb6fcac6682370b2079231027a8c",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "a2909ef2df5a0ddabd09a0679d99a03298fa88d6"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-ui-router.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-baadea32501d7b083bb10150b743a89e3777b42533a1cba0d9a6e5e97bc50b37",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "51d5fd730e11682fbae29dabda78923ce86eee2a"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-aria.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-2f2ea62cba5a8ccffbb99159196c3aa644194c4879d3ef02a095336ec13dec15",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "3ebeee8d232e08ca754de4e2d549f49597670ce8"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-material.min.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-711490bf509631ef155289318102cecb5e0077ad5035212d2fbcce2966ec0562",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "dc9fb55f2c7f922c5ba83449266239ba1353db45"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/js/vendor/angular-animate.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-02da7e5aef9158dce3193c943a026a161a187e8f46c476b834dd20a5cb82bf47",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ba8cd3f13de818168a39ea0d1984c7307f94d628"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/UI/WebServerResources/Gruntfile.js"
+        }],
+        "relations": []
+    }, {
+        "packages": [],
+        "files": [{
+            "BOMRef": "BOMRef-6e74aff032c68260aa46fcaefdadac4bf90c7401af757dd5a1ed42aa03e9dbd9",
+            "checksums": [{
+                "algorithm": "SHA1",
+                "checksumValue": "ad2edce1ff9e9cca075565cf3df0f39aaffb2259"
+            }],
+            "filePath": "/home/jackie/scantist/search-code/repo/inverse-inc_sogo/.versionrc.js"
+        }],
+        "relations": []
+    }]
+}
